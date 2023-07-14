@@ -9,7 +9,7 @@ eine Übersicht der Mitglieder und kann diese editieren oder löschen.
 ### Installation
 Um das Projekt zu installieren, kann man es fon GitHub klonen: 
 ```
-git clone ...
+git clone https://github.com/NimaiLeuenberger/CoworkingSpaceM223.git
 ```
 ### Exekution 
 Um das Projekt zum laufen zu bringen, muss der Knopf mit **RUN** drücken
