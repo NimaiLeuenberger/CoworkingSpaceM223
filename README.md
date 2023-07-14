@@ -13,6 +13,7 @@ git clone https://github.com/NimaiLeuenberger/CoworkingSpaceM223.git
 ```
 ### Exekution 
 Um das Projekt zum laufen zu bringen, muss der Knopf mit **RUN** drücken
+Danach sollte die URL http://localhost:8080/web/login aufgerufen werden
 
 ### TestDaten
 Die TestDaten können im folgenden Ordner gefunden werden: 
